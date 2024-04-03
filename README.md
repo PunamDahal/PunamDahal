@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data science.
 - 👯 I’m looking for opportunities.
 
+![PunamDahal's Stats](https://github-readme-stats.vercel.app/api?username=PunamDahal&theme=default&show_icons=true&hide_border=true&count_private=true)
+
 ![PunamDahal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PunamDahal&theme=default&hide_border=true)
