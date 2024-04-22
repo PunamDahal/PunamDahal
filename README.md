@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m presently working on this😁 and that😄.
-- 🌱 I’m currently learning data science.
-- 👯 I’m looking for opportunities.
+- ⌨ I’m presently working on this📚 and that💻
+- 📖 I’m currently learning data science.
+- 🔦 I’m looking for opportunities.
 
 
 ![PunamDahal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PunamDahal&theme=default&hide_border=true)
