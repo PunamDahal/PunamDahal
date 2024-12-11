@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - Want to collaborate on some projects. Don't hesitate to reach out.
 
 
-![PunamDahal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PunamDahal&theme=default&hide_border=true)
