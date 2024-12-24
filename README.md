@@ -1,5 +1,5 @@
 # Hey!
-# I'm ##Punam ![image](https://github.com/user-attachments/assets/504f056e-92c0-432e-bc12-6792744ddf69)
+# I'm Punam
 
 
 
