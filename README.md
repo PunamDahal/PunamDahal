@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 -->
 
-- ⌨ I’m presently working on this📚 and that💻
-- 📖 I’m currently learning data science.
+- ⌨ I’m presently working on this 📚 and that💻
 - 🔦 I’m looking for opportunities.
 - Want to collaborate on some projects. Don't hesitate to reach out.
 
