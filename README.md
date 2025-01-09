@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 -->
 
-- ⌨ I’m presently working on this 📚 and that💻
-- 🔦 I’m looking for opportunities.
-- Want to collaborate on some projects. Don't hesitate to reach out.
+- ⌨ I’m presently working on an internship project - a portfolio builder.
+- Side project - My new #Portfolio Website.
+- 🔦 I’m always looking for creative and challenging opportunities.
+
 
 
