@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - ⌨ I’m presently working on an internship project - a portfolio builder.
-- Side project # Portfolio Website.
+- Side project # Portfolio Creator.
 - Next Side project # Creative Coding SHOWCASE
 - 🔦 I’m always looking for creative and challenging opportunities.
 
