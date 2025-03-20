@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punamdahal)](https://github.com/punamdahal/github-readme-stats)
